@@ -1,0 +1,7 @@
+1. Estudar Banco de dados relacionais
+	1.1. MySQL
+	1.2 SQL Server
+
+2. Estudar ASP .Net Core 3.1/5.0 MVC
+
+3. Terminar curso DIO-Avanade
