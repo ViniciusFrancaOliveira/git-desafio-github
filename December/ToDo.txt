@@ -6,4 +6,8 @@
 
 3. Terminar curso DIO-Avanade
 
-4. Read book "Design Patterns"
+4. Read book "Design Patterns"]
+
+5. Finish Chess/Xadrez Project
+
+6. Finish ASP .Net project
